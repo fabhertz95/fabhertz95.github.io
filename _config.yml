@@ -61,9 +61,7 @@ author:
   name   : "Fabrizio Ottati"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : >-
-    "Electronic engineer and Ph.D. student @ VLSI Lab - DET - Politecnico di Torino." 
-    "Dad of Merlino and Artù."
-    "Working on efficient hardware architectures and algorithms in the field of AI for event based vision."
+    "Electronic engineer and Ph.D. student @ VLSI Lab - DET - Politecnico di Torino. Dad of Merlino and Artù. Working on efficient hardware architectures and algorithms in the field of AI for event based vision."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
